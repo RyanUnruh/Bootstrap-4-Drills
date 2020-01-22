@@ -1,10 +1,10 @@
 # Bootstrap-4-Drills
-#Bootstrap 4 Drills
+# Bootstrap 4 Drills
 The purpose of this lab is to practice pulling in Bootstrap 4's CDN and use its class based styling.
 
-#Steps
-#Setup
-*Create a new folder for these drills, title it Bootstrap 4 Drills
+# Steps
+# Setup
+* Create a new folder for these drills, title it Bootstrap 4 Drills
 Go ahead and initialize a git repository on this project so it will be available to view on your github account.
 *Create a README.md file, copy and past these drill instructions into that file.
 Create an index.html page, use the keyboard shortcut to get the html doc started.
